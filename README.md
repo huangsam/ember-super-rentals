@@ -2,9 +2,10 @@
 
 A simple rental app using the [Ember framework](https://emberjs.com/).
 
-This is my outcome from finishing [Tutorial Part 1](https://guides.emberjs.com/release/tutorial/part-1/).
+This is my outcome after walking through the following tutorials:
 
-Can consider exploring [Tutorial Part 2](https://guides.emberjs.com/release/tutorial/part-2/) next.
+- [Tutorial Part 1](https://guides.emberjs.com/release/tutorial/part-1/)
+- [Tutorial Part 2](https://guides.emberjs.com/release/tutorial/part-2/)
 
 ## Prerequisites
 
